@@ -14,7 +14,7 @@ Java enthuasist, everything web technologies, full stack developer, cloud techno
 
 [![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/polarpop)](https://github.com/polarpop)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/polarpop)](https://github.com/polarpop)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/polarpop)](https://github.com/polarpop)
 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/polarpop)](https://github.com/polarpop)
@@ -22,12 +22,12 @@ Java enthuasist, everything web technologies, full stack developer, cloud techno
 [![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Microsoft](https://img.shields.io/badge/-Microsoft_Office_365-black?style=flat&logo=microsoft&link=https://github.com/polarpop)](https://github.com/polarpop)
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js&link=https://github.com/polarpop)](https://github.com/polarpop)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/polarpop)](https://github.com/polarpop)
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&link=https://github.com/polarpop)](https://github.com/polarpop)
