@@ -33,7 +33,7 @@ Java enthuasist, everything web technologies, full stack developer, cloud techno
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&link=https://github.com/polarpop)](https://github.com/polarpop)
 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/polarpop)](https://github.com/polarpop)
-[![Apache Kafka](https://img.shields.io/badge/-Kafka-black?style=flat&logo=kafka&link=https://github.com/polarpop)](https://github.com/polarpop)
+[![Apache Kafka](https://img.shields.io/badge/-Kafka-black?style=flat&logo=apache&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![MS SQL](https://img.shields.io/badge/-MS_SQL-black?style=flat&logo=sql&link=https://github.com/polarpop)](https://github.com/polarpop)
