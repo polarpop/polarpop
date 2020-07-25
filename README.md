@@ -26,6 +26,7 @@ Java enthuasist, everything web technologies, full stack developer, cloud techno
 [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/polarpop)](https://github.com/polarpop)
+[![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/polarpop)](https://github.com/polarpop)
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/polarpop)](https://github.com/polarpop)
