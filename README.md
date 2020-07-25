@@ -12,19 +12,19 @@ Java enthuasist, everything web technologies, full stack developer, live in the 
 ### Tools and Technologies
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/polarpop)](https://github.com/polarpop) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/polarpop)](https://github.com/polarpop)
-[![Typescript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&link=https://github.com/polarpop)](https://github.com/polarpop)
+[![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white&link=https://github.com/polarpop)](https://github.com/polarpop)
+[![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/polarpop)](https://github.com/polarpop) 
 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/polarpop)](https://github.com/polarpop) 
-[![Azure](https://img.shields.io/badge/-Azure-0175C2?style=flat&logo=azureDevops&link=https://github.com/polarpop)](https://github.com/polarpop) 
-[![AWS](https://img.shields.io/badge/-AWS-red?style=flat&logo=amazon&link=https://github.com/polarpop)](https://github.com/polarpop) 
+[![Azure](https://img.shields.io/badge/-Azure-black?style=flat&logo=azureDevops&link=https://github.com/polarpop)](https://github.com/polarpop) 
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon&link=https://github.com/polarpop)](https://github.com/polarpop) 
 [![Microsoft](https://img.shields.io/badge/-Microsoft_Office_365-black?style=flat&logo=microsoft&link=https://github.com/polarpop)](https://github.com/polarpop) 
 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/polarpop)](https://github.com/polarpop) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/polarpop)](https://github.com/polarpop) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/polarpop)](https://github.com/polarpop) 
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white&link=https://github.com/polarpop)](https://github.com/polarpop) 
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&link=https://github.com/polarpop)](https://github.com/polarpop) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&link=https://github.com/polarpop)](https://github.com/polarpop) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/polarpop)](https://github.com/polarpop)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/polarpop)](https://github.com/polarpop)
 
