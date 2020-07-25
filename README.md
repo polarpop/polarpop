@@ -7,6 +7,7 @@ Java enthuasist, everything web technologies, full stack developer, cloud techno
 -  **Learning :** Rust, Go
 -  **Languages :** Python, Java, JavaScript, TypeScript
 -  **Organization :** Infosys LTD
+- **Position :** Technology Lead - US Expert
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tools and Technologies
