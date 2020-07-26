@@ -1,4 +1,4 @@
-### Hi everyone I am Doug
+### Hey there 👋, I am [Doug]() 
 [![Linkedin Badge](https://img.shields.io/badge/-Doug_Schamberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doug-schamberg-60b840149/)](https://www.linkedin.com/in/doug-schamberg-60b840149/) [![Gmail Badge](https://img.shields.io/badge/-doug.schamberg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doug.schamberg@gmail.com)](mailto:doug.schamberg@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### A little bit about me
