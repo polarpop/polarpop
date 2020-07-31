@@ -45,8 +45,6 @@ Java enthuasist, everything web technologies, full stack developer, cloud techno
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=polarpop&show_icons=true&count_private=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polarpop)
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐️ From [Doug Schamberg](https://github.com/polarpop)
